@@ -74,7 +74,7 @@ This project follows a clean separation of concerns structure:
 
 You can view the live demo here:
 
-- **Live Demo Website:** [LINK_WEBSITE_KAMU_DISINI]
+- **Live Demo Website:** [LINK]
 
 ---
 *Created by ABDUL HARIS MUHASIBI for Internship Submission Challenge.*
