@@ -74,7 +74,7 @@ This project follows a clean separation of concerns structure:
 
 You can view the live demo here:
 
-- **Live Demo Website:** [LINK]
+- **Live Demo Website:** [https://kalshios.com/harisproject/]
 
 ---
 *Created by ABDUL HARIS MUHASIBI for Internship Submission Challenge.*
